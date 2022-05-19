@@ -1,7 +1,5 @@
 # vue-3-crud
 
-Holi 
-
 ## Project setup
 ```
 npm install
